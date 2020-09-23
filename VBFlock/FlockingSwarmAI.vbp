@@ -1,0 +1,56 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\WINDOWS\system32\stdole2.tlb#OLE Automation
+Reference=*\G{CD6E8B50-033A-11D2-B805-EBE0D6230404}#0.5#0#..\WINDOWS\system32\Win32.tlb#32-bit Windows API declarations (ANSI)
+Reference=*\G{0BBD0202-7492-42D5-A683-87C902904486}#1.0#0#D:\Imported Files Sort Terminal\ConsoleApp\ConsoleApp.dll#PowerVB Console Application Add-In
+Reference=*\G{4EBFF089-1C52-4789-842F-B974169704FC}#1.0#0#..\WINDOWS\system32\VBGraphics.tlb#VB Graphics Definitions
+Reference=*\G{CDFFA366-1D4F-43F9-B4BF-5438BC7C7D29}#1.0#0#..\Downloads\VBCorLib_v1915627202005\VBCorLib Source\VBCorLib\Type Libraries\VBVM6Lib.tlb#Visual Basic 6 Virtual Machine Type Library 1.1 by Michel Rutten - Declarations and aliases for (undocumented) functions in the VB6 runtime library.
+Form=FormX.frm
+Startup="FormX"
+HelpFile=""
+Command32=""
+Name="FlockingSwarmAI"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="SKY-NET"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[RVB]
+DeleteClass1=Form1
+DeleteClass2=flock
+DeleteClass3=head
+DeleteClass4=typewriter
+DeleteClass5=vb_alice_lib
+DeleteClass6=alice_core
+DeleteClass7=display
+DeleteClass8=flocks
+DeleteClass9=gprinter
+DeleteClass10=heads
+DeleteClass11=internet
+DeleteClass12=preprocessor
+DeleteClass13=printers
+DeleteClass14=stuff
+DeleteClass15=typist
+DeleteClass16=vb_alice
+DeleteClass17=vb_alice
